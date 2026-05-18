@@ -2,7 +2,7 @@
 I am an Android developer, specializing in Kotlin and Java, with a demonstrated history of delivering high-quality applications across a broad spectrum of industries.
 
 ### Languages and Tools
-<p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://flutter.dev/assets/lockup_flutter_vertical.7e432d07dc23bc4f2c04fbaac8d8670e.png" alt="flutter" width="40" height="40"/> </a>  <a href="https://kotlinlang.org/compose-multiplatform/" target="_blank"> <img src="https://kotlinlang.org/images/compose-multiplatform/hero/compose-multiplatform-logo.svg" alt="compose multiplatform" width="40" height="40"/> </a> </p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamgurgul&show_icons=true&locale=en" alt="kamgurgul" /></p>
 
